@@ -1,4 +1,4 @@
-### Served at https://github.com/linghengqian/graalvm-trace-metadata-smoketest/issues/1
+### Served at https://github.com/linghengqian/graalvm-trace-metadata-smoketest/issues/1 and https://github.com/oracle/graal/issues/5850
 
 - Under Ubuntu 22.04, execute the following command to verify
 
